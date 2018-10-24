@@ -64,3 +64,41 @@ nav span {
   background-color: white;
   padding: 1.5rem 5rem;
 }
+
+/* Main section */
+
+main {
+  width: 100%;
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+}
+
+.icon {
+  display: flex;
+  width: 960px;
+  margin: 0 auto;
+}
+
+#icon1 {
+  display: inline-block;
+  height: 8rem;
+  padding-right: 6rem;
+  text-align: center;
+}
+
+#icon1 img {
+  width: 3.5rem;
+  height: auto;
+}
+
+#icon2 {
+  display: inline-block;
+  height: 8rem;
+  padding-right: 6rem;
+  text-align: center;
+}
+
+#icon2 img {
+  width: 5rem;
+  height: auto;
+}
