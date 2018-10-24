@@ -59,3 +59,8 @@ nav span {
   font-size: 2rem;
   line-height: 1.2;
 }
+
+.tag span {
+  background-color: white;
+  padding: 1.5rem 5rem;
+}
